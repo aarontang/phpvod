@@ -1,3 +1,4 @@
 这个类库用来获取中国国内主流视频网站的FLASH播放地址
 在使用前需要开启PHP的CURL
 extension=php_curl.dll前面的注释要去掉。
+详细用法请参照demo.php
